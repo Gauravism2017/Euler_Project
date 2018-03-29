@@ -1,4 +1,4 @@
-# Author: Andrew Noyes
+
 
 def isPrime(num):
 	"""Checks num for primality. Returns bool."""
