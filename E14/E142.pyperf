@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>b1c00596-0803-463d-9f5e-b8b62f43afb6</TargetProject>
+    <FriendlyName>E14</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\GauravISM\AppData\Local\Temp\E142_20180404.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
